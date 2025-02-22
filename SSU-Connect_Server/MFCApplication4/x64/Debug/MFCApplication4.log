@@ -1,0 +1,8 @@
+﻿  MainFrm.cpp
+C:\Users\resu2\OneDrive\바탕 화면\SSU-Connect\SSU-Connect_Server\MFCApplication4\MainFrm.cpp(445,11): warning C4101: 'Conn' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/MainFrm.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\resu2\OneDrive\바탕 화면\SSU-Connect\SSU-Connect_Server\MFCApplication4\MainFrm.cpp(448,9): warning C4101: 'Stat' :참조되지 않은 지역 변수입니다.
+  (소스 파일 '/MainFrm.cpp'을(를) 컴파일하는 중)
+  
+  MFCApplication4.vcxproj -> C:\Users\resu2\OneDrive\바탕 화면\SSU-Connect\SSU-Connect_Server\x64\Debug\MFCApplication4.exe
